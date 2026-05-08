@@ -1,38 +1,25 @@
-﻿Vigencia;Código recurso;Total
-2024;10;6391820068
-2024;12;1010965835
-2024;13;452045440
-2024;14;1167284388
-2024;15;793881993
-2024;16;2221377573
-2024;20;149266818
-2024;31;3843418616
-2024;32;1221222389
-2024;33;13500862450
-2024;34;1989296353
-2024;35;489136920
-2024;40;1511444087
-2025;10;5545144291
-2025;12;1990179285
-2025;16;2434710273
-2025;17;12426000
-2025;20;327727095.6
-2025;31;7215282061
-2025;32;1121649465
-2025;33;20410851085
-2025;34;705678549
-2025;35;1333991879
-2025;40;1050147639
-2026;10;8988048627
-2026;10.1;535692395
-2026;10.5;498339496
-2026;12;2373248777
-2026;14;1482408882
-2026;16;2064464484
-2026;20;264536873
-2026;31;3827485567
-2026;32;745171645
-2026;33;16845223744
-2026;34;748486171.9
-2026;35;392125780
-2026;40;499257118
+﻿Vigencia;Código recurso; Total ;Nación / Propio
+2024;10.0-Aportes Nacion - Funcionamiento; $ 6,391,820,068 ;Recursos Nación
+2024;13 - Cooperativas; $ 452,045,440 ;Recursos Nación
+2024;14 - Matriculas FSE; $ 1,167,284,388 ;Recursos Nación
+2024;20-Propios; $ 149,266,818 ;Recursos Propios
+2024;31 - Posgrados; $ 3,843,418,616 ;Recursos Propios
+2024;32 - Extension; $ 1,221,222,389 ;Recursos Propios
+2024;33 - Convenios con derechos; $ 13,500,862,450 ;Recursos Propios
+2024;35 - Educacion continuada; $ 489,136,920 ;Recursos Propios
+2025;10.0-Aportes Nacion - Funcionamiento; $ 5,545,144,291 ;Recursos Nación
+2025;17 - Devolucion descuento electoral; $ 12,426,000 ;Recursos Nación
+2025;20-Propios; $ 327,727,096 ;Recursos Propios
+2025;31 - Posgrados; $ 7,215,282,061 ;Recursos Propios
+2025;32 - Extension; $ 1,121,649,465 ;Recursos Propios
+2025;33 - Convenios con derechos; $ 20,410,851,085 ;Recursos Propios
+2025;35 - Educacion continuada; $ 1,333,991,879 ;Recursos Propios
+2026;10.0-Aportes Nacion - Funcionamiento; $ 8,988,048,627 ;Recursos Nación
+2026;10.1 - Aportes Nación - PIC Convencional; $ 535,692,395 ;Recursos Nación
+2026;10.5 - Aportes Nación - Política de gratuidad; $ 498,339,496 ;Recursos Nación
+2026;14 - Matriculas FSE; $ 1,482,408,882 ;Recursos Nación
+2026;20-Propios; $ 264,536,873 ;Recursos Propios
+2026;31 - Posgrados; $ 3,827,485,567 ;Recursos Propios
+2026;32 - Extension; $ 745,171,645 ;Recursos Propios
+2026;33 - Convenios con derechos; $ 16,845,223,744 ;Recursos Propios
+2026;35 - Educacion continuada; $ 392,125,780 ;Recursos Propios

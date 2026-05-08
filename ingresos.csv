@@ -1,40 +1,33 @@
-﻿Vigencia;Recurso;Valor
-2020;10-APORTE NACION;2.11154E+11
-2020;20-RECURSOS PROPIOS;40455079141
-2021;10-APORTE NACION;2.21946E+11
-2021;20-RECURSOS PROPIOS;35640503144
-2022;10-APORTE NACION;2.4595E+11
-2022;20-RECURSOS PROPIOS;32269389498
-2023;10-APORTE NACION;2.88609E+11
-2023;20-RECURSOS PROPIOS;35785871947
-2024;10.0-Aportes Nacion - Funcionamiento;2.53028E+11
-2024;12-Estampillas Otras Universidades;15439568271
-2024;13-Cooperativas;2078952993
-2024;14-Matriculas FSE;37090700264
-2024;15-Regalias;18114.97
-2024;16.0-Aportes inversion;16537157085
-2024;17-Devolucion descuento electoral;4531561319
-2024;18-Articulo 87 CESU;1067037785
-2024;20-Propios;28280993820
-2025;10.0-Aportes Nacion - Funcionamiento;2.74314E+11
-2025;10.1-Aportes Nación - PIC Convencional;10080716557
-2025;10.2-Aportes Nación - PIC Territorial;2835297958
-2025;10.4-Aportes Nación - Saldos PIC Territorial;1496887846
-2025;12-Estampillas Otras Universidades;18484638960
-2025;13-Cooperativas;2080840690
-2025;14-Matriculas FSE;44224691856
-2025;16.0-Aportes inversion;23983126503
-2025;17-Devolucion descuento electoral;5183761916
-2025;18-Articulo 87 CESU;457065634
-2025;20-Propios;21440920850
-2025;21-Devolucion IVA;7981747901
-2026;10.0-Aportes Nacion - Funcionamiento;3.14782E+11
-2026;10.5-Aportes Nación - Política de gratuidad;20708427143
-2026;12-Estampillas Otras Universidades;5706455422
-2026;13-Cooperativas;2126284735
-2026;14-Matriculas FSE;18737327483
-2026;16.0-Aportes inversion;7728720060
-2026;17-Devolucion descuento electoral;5447536009
-2026;18-Articulo 87 CESU;427778274
-2026;20-Propios;17299519752
-2026;21-Devolucion IVA;4587997825
+﻿Vigencia;Recurso; Valor ;Nación / Propio
+2020;10.0-Aportes Nacion - Funcionamiento; $ 211,154,363,875 ;Recursos Nación
+2020;20-Propios; $ 40,455,079,141 ;Recursos Propios
+2021;10.0-Aportes Nacion - Funcionamiento; $ 221,945,894,348 ;Recursos Nación
+2021;20-Propios; $ 35,640,503,144 ;Recursos Propios
+2022;10.0-Aportes Nacion - Funcionamiento; $ 245,949,740,526 ;Recursos Nación
+2022;20-Propios; $ 32,269,389,498 ;Recursos Propios
+2023;10.0-Aportes Nacion - Funcionamiento; $ 288,608,934,468 ;Recursos Nación
+2023;20-Propios; $ 35,785,871,947 ;Recursos Propios
+2024;10.0-Aportes Nacion - Funcionamiento; $ 253,027,614,910 ;Recursos Nación
+2024;13-Cooperativas; $ 2,078,952,993 ;Recursos Nación
+2024;14-Matriculas FSE; $ 37,090,700,264 ;Recursos Nación
+2024;17-Devolucion descuento electoral; $ 4,531,561,319 ;Recursos Nación
+2024;18-Articulo 87 CESU; $ 1,067,037,785 ;Recursos Nación
+2024;20-Propios; $ 28,280,993,820 ;Recursos Propios
+2025;10.0-Aportes Nacion - Funcionamiento; $ 274,314,295,313 ;Recursos Nación
+2025;10.1-Aportes Nación - PIC Convencional; $ 10,080,716,557 ;Recursos Nación
+2025;10.2-Aportes Nación - PIC Territorial; $ 2,835,297,958 ;Recursos Nación
+2025;10.4-Aportes Nación - Saldos PIC Territorial; $ 1,496,887,846 ;Recursos Nación
+2025;13-Cooperativas; $ 2,080,840,690 ;Recursos Nación
+2025;14-Matriculas FSE; $ 44,224,691,856 ;Recursos Nación
+2025;17-Devolucion descuento electoral; $ 5,183,761,916 ;Recursos Nación
+2025;18-Articulo 87 CESU; $ 457,065,634 ;Recursos Nación
+2025;20-Propios; $ 21,440,920,850 ;Recursos Propios
+2025;21-Devolucion IVA; $ 7,981,747,901 ;Recursos Propios
+2026;10.0-Aportes Nacion - Funcionamiento; $ 314,781,873,726 ;Recursos Nación
+2026;10.5-Aportes Nación - Política de gratuidad; $ 20,708,427,143 ;Recursos Nación
+2026;13-Cooperativas; $ 2,126,284,735 ;Recursos Nación
+2026;14-Matriculas FSE; $ 18,737,327,483 ;Recursos Nación
+2026;17-Devolucion descuento electoral; $ 5,447,536,009 ;Recursos Nación
+2026;18-Articulo 87 CESU; $ 427,778,274 ;Recursos Nación
+2026;20-Propios; $ 17,299,519,752 ;Recursos Propios
+2026;21-Devolucion IVA; $ 4,587,997,825 ;Recursos Propios
